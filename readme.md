@@ -1,22 +1,23 @@
 # Awesome Multiplayer Games
 
-Awesome games for LAN parties or local multiplayer sessions with 2-4 players. Games with asterisks are free.
+Awesome games for LAN parties or local multiplayer sessions with 2-\* players. Games with asterisks are free.
 
-# Contribute
+*Customized fork of `herrherrmann/awesome-multiplayer-games`.*
 
-You can add or edit games by editing this `readme.md` and creating a branch (and pull request). Please add a link to the game's official website, if possible.
+### Contribute
 
-All merged changes will be directly deployed to https://multiplayer.page!
+You can add or edit games by editing this `readme.md` and creating a branch (and pull request).
+Please add links to the game's official store pages (or bundles), if possible.
+<br>Consider appending if a game is in multiple digital stores: `[Steam]() | [GoG]() | [Epic]() | [MS/Xbox]() | [HB]() | [Origin]()`
 
 ## 🔫 Shooter
-- Counter-Strike (1.6)
-- [Counter-Strike: Source](https://store.steampowered.com/app/240/CounterStrike_Source/)
-- Counter-Strike: Global Offensive
-- Half-Life 2: Deathmatch
-- Team Fortress 2*
-- Day of Defeat: Source
-- Call of Duty 4: Modern Warfare
-- Battlefield 1942
+- [Counter-Strike (1.6)](https://store.steampowered.com/app/10/CounterStrike/)
+- [Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/) \*
+- Call of Duty: Black Ops 6 | [Steam](https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/) | [Xbox (GP)](https://www.xbox.com/xbox-game-pass)
+- [Half-Life 2: Deathmatch](https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/)
+- [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) \*
+- [Day of Defeat: Source](https://store.steampowered.com/app/300/Day_of_Defeat_Source/)
+- [Battlefield 1942](https://steamcommunity.com/sharedfiles/filedetails/?id=2721068159) \*
 - Battlefield Vietnam
 - Battlefield 2
 - Star Wars: Battlefront (Original)
@@ -40,6 +41,12 @@ All merged changes will be directly deployed to https://multiplayer.page!
 - [Fistful of Frags*](https://store.steampowered.com/app/265630/Fistful_of_Frags/)
 - [Openarena*](http://www.openarena.ws)
 - [TeeWorlds*](https://www.teeworlds.com/)
+
+<details><summary>Archive</summary>
+
+- Counter-Strike: Source
+- Call of Duty 4: Modern Warfare
+</details>
 
 ## ♔ Strategy
 - Age of Empires II (HD)
