@@ -59,6 +59,7 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Red Alert 2](https://store.steampowered.com/app/2229850/Command__Conquer_Red_Alert_2_and_Yuris_Revenge/)
 - [Stronghold](https://store.steampowered.com/app/2140020/Stronghold_Definitive_Edition/)
 - [Tempest Rising](https://store.steampowered.com/app/1486920/Tempest_Rising/)
+- [Worms Revolution](https://store.steampowered.com/app/200170/Worms_Revolution/) | [Armageddon](https://store.steampowered.com/app/217200/Worms_Armageddon/) | [Reloaded](https://store.steampowered.com/app/22600/Worms_Reloaded/) | [W.M.D](https://store.steampowered.com/app/327030/Worms_WMD/) | [Rumble](https://store.steampowered.com/app/1186040/Worms_Rumble/)
 
 <details><summary>Archive</summary>
 
@@ -75,14 +76,14 @@ Please add links to the game's official store pages (or bundles), if possible.
 </details>
 
 ## 🍴 Role-Playing Games
-- Diablo II
-- Dungeon Siege
-- Baldur's Gate
-- Neverwinter Nights
-- Icewind Dale
-- Heroes of Might & Magic 5
-- Freelancer
+- [Heroes of Might & Magic 3](https://store.steampowered.com/app/297000/Heroes_of_Might__Magic_III__HD_Edition/) | [4](https://www.gog.com/en/game/heroes_of_might_and_magic_4_complete) | [5](https://store.steampowered.com/app/15170/Heroes_of_Might__Magic_V/)
+- [Baldur's Gate](https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/) | [2](https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/) | [3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
+- [Diablo II](https://diablo2.blizzard.com/)
+- [Neverwinter Nights](https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/)
+- [Icewind Dale](https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/)
+- Freelancer ([Dreamlist](https://www.gog.com/dreamlist/game/freelancer))
 - [Project Zomboid](https://projectzomboid.com/)
+- [Dungeon Siege](https://store.steampowered.com/app/39190/Dungeon_Siege/)
 
 ## 🚗 Racing
 - [Blur](https://www.igdb.com/games/blur)
