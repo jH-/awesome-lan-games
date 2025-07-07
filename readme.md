@@ -14,63 +14,65 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Counter-Strike (1.6)](https://store.steampowered.com/app/10/CounterStrike/)
 - [Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/) \*
 - Call of Duty: Black Ops 6 | [Steam](https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/) | [Xbox (GP)](https://www.xbox.com/xbox-game-pass)
+- MOD: Call of Duty: Modern Warfare 2 (2009) | [IW4x](https://iw4x.dev)
+- MOD: Call of Duty®: Modern Warfare Remastered (2017) | [Horizon MW](https://horizonmw.org)
 - [Half-Life 2: Deathmatch](https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/)
 - [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) \*
 - [Day of Defeat: Source](https://store.steampowered.com/app/300/Day_of_Defeat_Source/)
 - [Battlefield 1942](https://steamcommunity.com/sharedfiles/filedetails/?id=2721068159) \*
-- Battlefield Vietnam
-- Battlefield 2
-- Star Wars: Battlefront (Original)
-- Quake III: Arena
-- [Quake Live](https://www.quakelive.com/)
-- [Xonotic*](https://xonotic.org/)
-- Unreal Tournament 2004
-- [Portal 2](https://www.thinkwithportals.com/)
-- Halo
-- [F.E.A.R. Combat*](https://fearcombat.org/)
+- Battlefield 2 \*: [BF2Hub](https://www.bf2hub.com) | [PlayBF2](https://playbf2.tilda.ws/en)
+- [Star Wars: Battlefront (Original)](https://store.steampowered.com/app/1058020/STAR_WARS_Battlefront_Classic_2004/)
+- [Quake III: Arena](https://store.steampowered.com/app/2200/Quake_III_Arena/)
+- [Quake Live](https://store.steampowered.com/app/282440/Quake_Live/)
+- [Unreal Tournament 2004](https://oldunreal.com/downloads/unrealtournament/)
+- [Halo: Combat Evolved](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/)
+- Halo 2 ([Insigna](https://insignia.live))
+- [F.E.A.R. Combat*](https://fear-community.org)
 - [Left 4 Dead](https://store.steampowered.com/app/500/Left_4_Dead/)
 - [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
-- Serious Sam
-- Serious Sam 2
-- [The Mean Greens](https://www.themeangreens.com/)
-- Splinter Cell: Chaos Theory
-- Jedi Knight: Jedi Academy
+- [Jedi Knight: Jedi Academy](https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/)
 - [Soldat*](https://soldat.pl/en)
-- [The Ship](https://store.steampowered.com/app/2400/The_Ship_Murder_Party/)
-- [Pirates, Vikings and Knights II](https://store.steampowered.com/app/17570/Pirates_Vikings_and_Knights_II/)
-- [Fistful of Frags*](https://store.steampowered.com/app/265630/Fistful_of_Frags/)
-- [Openarena*](http://www.openarena.ws)
-- [TeeWorlds*](https://www.teeworlds.com/)
 
 <details><summary>Archive</summary>
 
 - Counter-Strike: Source
 - Call of Duty 4: Modern Warfare
+- [Xonotic*](https://xonotic.org/)
+- Splinter Cell: Chaos Theory
+- [The Ship](https://store.steampowered.com/app/2400/The_Ship_Murder_Party/)
+- [Pirates, Vikings and Knights II](https://store.steampowered.com/app/17570/Pirates_Vikings_and_Knights_II/)
+- [Fistful of Frags*](https://store.steampowered.com/app/265630/Fistful_of_Frags/)
+- [Openarena*](http://www.openarena.ws)
+- [TeeWorlds*](https://www.teeworlds.com/)
 </details>
 
 ## ♔ Strategy
-- Age of Empires II (HD)
-- Warcraft III
-    - Classic Maps
-    - Tower Defense Maps
-    - DOTA
-    - Defence maps (X-Hero Siege, Enfo's)
 - [Dota 2](https://www.dota2.com/)
-    - Dota 2 Custom maps (almost the same as in WC3)
-- Starcraft
-- Dawn of War
-- Command and Conquer
+    - Auto Chess
+    - Custom maps (almost the same as in WC3)
+- [Warcraft III: TFT](https://warcraft3.blizzard.com/en-gb/) (Reforged)
+- [Age of Empires II (HD)](https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/)
+- [Starcraft: Remastered](https://starcraft.blizzard.com/en-gb/)
+- [Starcraft 2](https://starcraft2.blizzard.com/en-gb/)
+- [Company of Heroes](https://store.steampowered.com/app/228200/Company_of_Heroes/) | [2](https://store.steampowered.com/app/231430/Company_of_Heroes_2/) | [3](https://store.steampowered.com/app/1677280/Company_of_Heroes_3/)
+- [Command & Conquer Remastered Collection](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/) (w/Red Alert)
+- [Red Alert 2](https://store.steampowered.com/app/2229850/Command__Conquer_Red_Alert_2_and_Yuris_Revenge/)
+- [Stronghold](https://store.steampowered.com/app/2140020/Stronghold_Definitive_Edition/)
+- [Tempest Rising](https://store.steampowered.com/app/1486920/Tempest_Rising/)
+
+<details><summary>Archive</summary>
+
+- [Dawn of War](https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__Anniversary_Edition)
 - [SpringRTS*](https://springrts.com/)
     - [Evolution RTS*](https://www.evolutionrts.info/)
     - [Spring: 1944*](https://spring1944.net/)
     - [Zero-K*](https://zero-k.info/)    
-- Supreme Commander
-- Stronghold
+- [Supreme Commander](https://store.steampowered.com/app/9350/Supreme_Commander/)
 - Total Annihilation
 - Jagged Alliance
 - 0 A.D.*
 - [OpenRA*](https://www.openra.net/)
-- [Tempest Rising](https://store.steampowered.com/app/1486920/Tempest_Rising/)
+</details>
 
 ## 🍴 Role-Playing Games
 - Diablo II
