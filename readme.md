@@ -2,7 +2,7 @@
 
 Awesome games for LAN parties or local multiplayer sessions with 2-\* players. Games with asterisks are free.
 
-*Customized fork of `herrherrmann/awesome-multiplayer-games`.*
+*Customized fork of `herrherrmann/awesome-multiplayer-games`; this list is tailored more to my personal preferences.*
 
 ### Contribute
 
@@ -118,6 +118,7 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
 - [Skribbl*](https://skribbl.io/)
 - [Jackbox Party Pack](https://www.jackboxgames.com/)
+- [Among Us](https://among-us.io)
 
 <details><summary>Archive</summary>
 
@@ -131,11 +132,13 @@ Please add links to the game's official store pages (or bundles), if possible.
 </details>
 
 ## 👊 Fighting
-- Absolver
-- Tekken 7 | 8
-- Soulcalibur II | VI
-- Party Animals
-- Smash Bros
+- [Absolver](https://store.steampowered.com/app/473690/Absolver/)
+- [Tekken 7](https://store.steampowered.com/app/389730/TEKKEN_7/) | [8](https://store.steampowered.com/app/1778820/TEKKEN_8/)
+- [Soulcalibur II](https://wiki.dolphin-emu.org/index.php?title=Soulcalibur_II) | [VI](https://store.steampowered.com/app/544750/SOULCALIBUR_VI/)
+- [Party Animals](https://store.steampowered.com/app/1260320/Party_Animals/)
+- Smash Bros (Switch, older emu?)
+- [Brawlhalla*](https://www.brawlhalla.com/)
+- [Gang Beasts](https://gangbeasts.game/)
 
 ## 📺 Local Multiplayer
 - [Duck Game](https://www.adultswim.com/games/duck-game)
@@ -165,8 +168,6 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Awesomenauts*](https://www.awesomenauts.com/)
 - [Crawl](https://www.powerhoof.com/crawl/)
 - [The Swords of Ditto: Mormo's Curse](https://store.steampowered.com/app/619780/The_Swords_of_Ditto_Mormos_Curse/)
-- [Gang Beasts](https://gangbeasts.game/)
-- [Brawlhalla*](https://www.brawlhalla.com/)
 - [Tooth and Tail](https://www.toothandtailgame.com/)
 - [Broforce](http://www.broforcegame.com/)
 - [Cortex Command](http://www.datarealms.com/games.php)
@@ -179,9 +180,6 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Hidden in plain Sight](https://store.steampowered.com/app/303590/Hidden_in_Plain_Sight/)
 - [Blobby Volley*](http://blobbyvolley.de/)
 - [Toybox Turbos](https://store.steampowered.com/app/287260/Toybox_Turbos/)
-- [Spelunky](https://spelunkyworld.com/)
-- [Worms: W.M.D.](https://www.team17.com/games/worms-w-m-d/)
-- [Among Us](https://among-us.io)
 - [Can't Drive This](https://pixel-maniacs.com/cantdrivethis)
 - [Kingdom Two Crowns](https://www.kingdomthegame.com/kingdom-two-crowns)
 - [Pikuniku](https://pikuniku.net/)
@@ -189,6 +187,6 @@ Please add links to the game's official store pages (or bundles), if possible.
 ## Other
 - [Hedgewars](https://www.hedgewars.org/)
 - [Garry's Mod](https://gmod.facepunch.com/)
-- Minecraft
+- [Minecraft](https://www.xbox.com/en-US/games/store/minecraft-for-windows/9nblggh2jhxj)
 - [Factorio](https://www.factorio.com/)
 - [Sea of Thieves](https://www.seaofthieves.com/)
