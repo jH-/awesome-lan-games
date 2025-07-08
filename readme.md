@@ -16,6 +16,7 @@ Please add links to the game's official store pages (or bundles), if possible.
 - Call of Duty: Black Ops 6 | [Steam](https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/) | [Xbox (GP)](https://www.xbox.com/xbox-game-pass)
 - MOD: Call of Duty: Modern Warfare 2 (2009) | [IW4x](https://iw4x.dev)
 - MOD: Call of Duty®: Modern Warfare Remastered (2017) | [Horizon MW](https://horizonmw.org)
+- [PUBG](https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/)
 - [Half-Life 2: Deathmatch](https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/)
 - [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) \*
 - [Day of Defeat: Source](https://store.steampowered.com/app/300/Day_of_Defeat_Source/)
@@ -86,8 +87,17 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Dungeon Siege](https://store.steampowered.com/app/39190/Dungeon_Siege/)
 
 ## 🚗 Racing
+- [Trackmania](https://store.steampowered.com/app/2225070/Trackmania/)
+- [DiRT Rally](https://store.steampowered.com/app/310560/DiRT_Rally/) | [2.0](https://store.steampowered.com/app/690790/DiRT_Rally_20/)
+- [BallisticNG](https://store.steampowered.com/app/473770/BallisticNG/)
+- [Need for Speed Hot Pursuit Remastered](https://store.steampowered.com/app/1328660/Need_for_Speed_Hot_Pursuit_Remastered/)
+- [Burnout Paradise Remastered](https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/)
+- [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/)
+- [Wreckfest](https://thqnordic.com/games/wreckfest)
+
+<details><summary>Archive</summary>
+
 - [Blur](https://www.igdb.com/games/blur)
-- [Rocket League](https://www.rocketleague.com/)
 - Flatout
 - Flatout 2
 - DiRT 3
@@ -96,18 +106,36 @@ Please add links to the game's official store pages (or bundles), if possible.
 - Trackmania Nations Forever*
 - [SuperTuxKart*](https://supertuxkart.net/)
 - [Achtung, die Kurve!](https://achtungdiekurve.net/)
-- [Wreckfest](https://thqnordic.com/games/wreckfest)
+</details>
+
+## ⚽ Sports
+- [Rocket League](https://www.rocketleague.com/)
+- [Golf With Your Friends](https://store.steampowered.com/app/431240/Golf_With_Your_Friends/)
+- Nintendo Switch Sports
+- Mario Golf: Super Rush (Switch)
 
 ## 🎉 Party
-- [5 Second Rule*](https://5second.app/)
+- [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
+- [Skribbl*](https://skribbl.io/)
 - [Jackbox Party Pack](https://www.jackboxgames.com/)
+
+<details><summary>Archive</summary>
+
+- [5 Second Rule*](https://5second.app/)
 - [Bad Cards*](https://bad.cards/)
 - [Charades*](https://charades.app/)
 - [Codenames](https://codenames.game/)
 - [Friendship Quiz*](https://psycatgames.com/app/friendship-quiz/)
 - [Truth or Drink*](https://truthordrink.app/)
 - [Truth or Dare*](https://psycatgames.com/app/truth-or-dare/)
-- [Skribbl*](https://skribbl.io/)
+</details>
+
+## 👊 Fighting
+- Absolver
+- Tekken 7 | 8
+- Soulcalibur II | VI
+- Party Animals
+- Smash Bros
 
 ## 📺 Local Multiplayer
 - [Duck Game](https://www.adultswim.com/games/duck-game)
@@ -117,7 +145,7 @@ Please add links to the game's official store pages (or bundles), if possible.
 - [Magicka 2](https://www.paradoxinteractive.com/games/magicka-2/about)
 - [Overcooked](https://ghosttowngames.com/overcooked/)
 - [Overcooked 2](https://ghosttowngames.com/overcooked-2/)
-- [Moving Out](https://www.smgstudio.com/movingout/)
+- [Moving Out](https://www.smgstudio.com/movin1ut/)
 - [Monaco: What's Yours Is Mine](https://store.steampowered.com/app/113020/Monaco_Whats_Yours_Is_Mine/)
 - [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)
 - [Stikbold!](https://www.stikbold.com/)
